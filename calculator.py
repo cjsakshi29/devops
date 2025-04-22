@@ -28,6 +28,7 @@ def main():
         result = divide(a, b)
     else:
         result = "Invalid operation"
+        print("Hi")
 
     print(f"Result: {result}")
 
