@@ -29,6 +29,7 @@ def main():
     else:
         result = "Invalid operation"
         print("Hi")
+        print("Hiii")
 
     print(f"Result: {result}")
 
